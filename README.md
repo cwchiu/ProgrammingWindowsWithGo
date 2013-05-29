@@ -17,7 +17,7 @@ go build HelloMsg.go
 ## Example List ##
 Chapter 1
 - 
-HelloMsg.go
+HelloMsg.go (Displays "Hello, Windows" in a message box)
 
 Chapter 2
 - 
@@ -25,26 +25,26 @@ Ignore
 
 Chapter 3
 - 
-HelloWin.go
+HelloWin.go (Displays "Hello, Windows" in client area)
 
 Chapter 4
 - 
-Sysmets1.go
+Sysmets1.go (System Metrics Display Program No. 1)
 
-Sysmets2.go
+Sysmets2.go (System Metrics Display Program No. 2)
 
-Sysmets3.go
+Sysmets3.go (System Metrics Display Program No. 3)
 
 Chapter 5
 - 
-Sinwave.go
+Sinwave.go (Sine Wave Using Polyline)
 
-LineDemo.go
+LineDemo.go (Line-Drawing Demonstration Program)
 
-Bezier.go
+Bezier.go (Bezier Splines Demo)
 
-Altwind.go
+Altwind.go (Alternate and Winding Fill Modes)
 
-WhatSize.go
+WhatSize.go (What Size is the Window?)
 
-RandRect.go
+RandRect.go (Displays Random Rectangles)
