@@ -21,19 +21,21 @@ HelloMsg.go
 
 Chapter 2
 - 
-
+Ignore 
 
 Chapter 3
 - 
 HelloWin.go
 
-System1.go
-
-System2.go
-
-System.go
-
 Chapter 4
+- 
+Sysmets1.go
+
+Sysmets2.go
+
+Sysmets3.go
+
+Chapter 5
 - 
 Sinwave.go
 
@@ -43,3 +45,6 @@ Bezier.go
 
 Altwind.go
 
+WhatSize.go
+
+RandRect.go
