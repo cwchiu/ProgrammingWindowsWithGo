@@ -1,8 +1,5 @@
-ProgrammingWindowsWithGo
-========================
-
 # Programming Windows With Go #
-
+========================
 Reference "**[Programming Windows, 5th Edition](http://www.charlespetzold.com/pw5/)**"
 
 
