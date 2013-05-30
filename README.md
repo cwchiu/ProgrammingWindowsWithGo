@@ -17,7 +17,7 @@ go build HelloMsg.go
 ## Example List ##
 Chapter 1 Getting Started
 - 
-HelloMsg.go (Displays "Hello, Windows" in a message box)
+1-1 HelloMsg.go (Displays "Hello, Windows" in a message box)
 
 Chapter 2 An Introduction to Unicode
 - 
@@ -25,45 +25,45 @@ Ignore
 
 Chapter 3 Windows and Messages
 - 
-HelloWin.go (Displays "Hello, Windows" in client area)
+3-1 HelloWin.go (Displays "Hello, Windows" in client area)
 
 Chapter 4 An Exercise in Text Output
 - 
-Sysmets1.go (System Metrics Display Program No. 1)
+4-1 Sysmets1.go (System Metrics Display Program No. 1)
 
-Sysmets2.go (System Metrics Display Program No. 2)
+4-2 Sysmets2.go (System Metrics Display Program No. 2)
 
-Sysmets3.go (System Metrics Display Program No. 3)
+4-3 Sysmets3.go (System Metrics Display Program No. 3)
 
 Chapter 5 Basic Drawing
 - 
-Sinwave.go (Sine Wave Using Polyline)
+5-1 Sinwave.go (Sine Wave Using Polyline)
 
-LineDemo.go (Line-Drawing Demonstration Program)
+5-2 LineDemo.go (Line-Drawing Demonstration Program)
 
-Bezier.go (Bezier Splines Demo)
+5-3 Bezier.go (Bezier Splines Demo)
 
-Altwind.go (Alternate and Winding Fill Modes)
+5-4 Altwind.go (Alternate and Winding Fill Modes)
 
-WhatSize.go (What Size is the Window?)
+5-5 WhatSize.go (What Size is the Window?)
 
-RandRect.go (Displays Random Rectangles)
+5-6 RandRect.go (Displays Random Rectangles)
 
-DevCaps1.go (Device Capabilities Display Program No. 1)
+5-7 DevCaps1.go (Device Capabilities Display Program No. 1)
 
-Clover.go (Clover Drawing Program Using Regions)
+5-8 Clover.go (Clover Drawing Program Using Regions)
 
 Chapter 6 The Keyboard
 - 
-KeyView1.go (Displays Keyboard and Character Messages)
+6-1 SysMets4.go (System Metrics Display Program No. 4)
 
-KeyView2.go
+6-2 KeyView1.go (Displays Keyboard and Character Messages)
 
-StokFont.go
+6-3 StokFont.go 
 
-SysMets4.go
+6-4 KeyView2.go
 
-Typer.go
+6-5 Typer.go
 
 Chapter 7 The Mouse
 - 
