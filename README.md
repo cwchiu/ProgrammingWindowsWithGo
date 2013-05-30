@@ -15,19 +15,19 @@ Reference "[Programming Windows, 5th Edition](http://www.charlespetzold.com/pw5/
 go build HelloMsg.go
 
 ## Example List ##
-Chapter 1
+Chapter 1 Getting Started
 - 
 HelloMsg.go (Displays "Hello, Windows" in a message box)
 
-Chapter 2
+Chapter 2 An Introduction to Unicode
 - 
 Ignore 
 
-Chapter 3
+Chapter 3 Windows and Messages
 - 
 HelloWin.go (Displays "Hello, Windows" in client area)
 
-Chapter 4
+Chapter 4 An Exercise in Text Output
 - 
 Sysmets1.go (System Metrics Display Program No. 1)
 
@@ -35,7 +35,7 @@ Sysmets2.go (System Metrics Display Program No. 2)
 
 Sysmets3.go (System Metrics Display Program No. 3)
 
-Chapter 5
+Chapter 5 Basic Drawing
 - 
 Sinwave.go (Sine Wave Using Polyline)
 
@@ -53,7 +53,7 @@ DevCaps1.go (Device Capabilities Display Program No. 1)
 
 Clover.go (Clover Drawing Program Using Regions)
 
-Chapter 6
+Chapter 6 The Keyboard
 - 
 KeyView1.go
 
@@ -65,3 +65,68 @@ SysMets4.go
 
 Typer.go
 
+Chapter 7 The Mouse
+- 
+BlokOut1.go   
+
+BlokOut2.go   
+
+Checker1.go   
+
+Checker2.go   
+
+Checker3.go   
+
+Checker4.go   
+
+Connect.go    
+
+SysMets.go 
+
+Chapter 8 The Timer
+- 
+
+Chapter 9 Child Window Controls
+- 
+
+Chapter 10 Menus and Other Resources
+- 
+
+Chapter 11 Dialog Boxes
+- 
+
+Chapter 12 The Clipboard
+- 
+
+Chapter 13 Using the Printer
+- 
+
+Chapter 14 Bitmaps and Bitblts
+- 
+
+Chapter 15 The Device-Independent Bitmap
+- 
+
+Chapter 16 The Palette Manager
+- 
+
+Chapter 17 Text and Fonts
+- 
+
+Chapter 18 Metafiles
+- 
+
+Chapter 19 The Multiple-Document Interface
+- 
+
+Chapter 20 Multitasking and Multithreading
+- 
+
+Chapter 21 Dynamic-Link Libraries
+- 
+
+Chapter 22 Sound and Music
+- 
+
+Chapter 23 A Taste of the Internet
+- 
