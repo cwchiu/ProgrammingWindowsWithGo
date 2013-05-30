@@ -48,3 +48,7 @@ Altwind.go (Alternate and Winding Fill Modes)
 WhatSize.go (What Size is the Window?)
 
 RandRect.go (Displays Random Rectangles)
+
+DevCaps1.go (Device Capabilities Display Program No. 1)
+
+Clover.go (Clover Drawing Program Using Regions)
