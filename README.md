@@ -59,9 +59,9 @@ Chapter 6 The Keyboard
 
 6-2 KeyView1.go (Displays Keyboard and Character Messages)
 
-6-3 StokFont.go 
+6-3 StokFont.go (Stock Font Objects)
 
-6-4 KeyView2.go
+6-4 KeyView2.go (Displays Keyboard and Character Messages)
 
 6-5 Typer.go
 
