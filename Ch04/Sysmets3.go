@@ -224,6 +224,7 @@ func WndProc(hwnd HWND, msg uint32, wParam, lParam uintptr) (result uintptr) {
             ScrollWindow(hwnd, 0, cyChar*(iVertPos-si.Pos), nil, nil)
             UpdateWindow(hwnd)
         }
+        return 0
     case WM_HSCROLL:
         si.CbSize = uint32(unsafe.Sizeof(si))
         si.Mask = SIF_ALL
