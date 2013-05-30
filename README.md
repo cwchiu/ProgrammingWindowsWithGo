@@ -55,7 +55,7 @@ Clover.go (Clover Drawing Program Using Regions)
 
 Chapter 6 The Keyboard
 - 
-KeyView1.go
+KeyView1.go (Displays Keyboard and Character Messages)
 
 KeyView2.go
 
