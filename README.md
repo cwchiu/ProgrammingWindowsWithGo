@@ -21,7 +21,7 @@ Chapter 1 Getting Started
 
 Chapter 2 An Introduction to Unicode
 - 
-Ignore 
+2-1 ScrnSize.go (Displays screen size in a message box)
 
 Chapter 3 Windows and Messages
 - 
@@ -85,9 +85,29 @@ Chapter 7 The Mouse
 
 Chapter 8 The Timer
 - 
+Beeper1.go  
+
+Beeper2.go  
+
+Clock.go    
+
+DigClock.go 
+
+WhatClr.go  
 
 Chapter 9 Child Window Controls
 - 
+BtnLook.go
+
+Colors1.go
+
+Environ.go
+
+OwnDraw.go
+
+PopPad1.go
+
+Head.go   
 
 Chapter 10 Menus and Other Resources
 - 
