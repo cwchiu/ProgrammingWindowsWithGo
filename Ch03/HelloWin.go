@@ -3,7 +3,7 @@ package main
 import (
     "syscall"
     "unsafe"
-    "fmt"
+    //"fmt"
   //  "time"
     . "github.com/cwchiu/go-winapi"
 )
