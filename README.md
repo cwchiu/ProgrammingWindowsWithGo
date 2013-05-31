@@ -63,25 +63,25 @@ Chapter 6 The Keyboard
 
 6-4 KeyView2.go (Displays Keyboard and Character Messages)
 
-6-5 Typer.go
+6-5 Typer.go (Typing Program)
 
 Chapter 7 The Mouse
 - 
-BlokOut1.go   
+7-1 Connect.go    
 
-BlokOut2.go   
+7-2 Checker1.go   
 
-Checker1.go   
+7-3 Checker2.go   
 
-Checker2.go   
+7-4 Checker3.go   
 
-Checker3.go   
+7-5 Checker4.go   
 
-Checker4.go   
+7-6 BlokOut1.go   
 
-Connect.go    
+7-7 BlokOut2.go   
 
-SysMets.go 
+7-8 Sysmets.go 
 
 Chapter 8 The Timer
 - 
