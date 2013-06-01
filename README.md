@@ -85,15 +85,15 @@ Chapter 7 The Mouse
 
 Chapter 8 The Timer
 - 
-Beeper1.go  
+8-1 Beeper1.go  
 
-Beeper2.go  
+8-2 Beeper2.go  
 
-Clock.go    
+8-3 DigClock.go 
 
-DigClock.go 
+8-4 Clock.go    
 
-WhatClr.go  
+8-5 WhatClr.go  
 
 Chapter 9 Child Window Controls
 - 
