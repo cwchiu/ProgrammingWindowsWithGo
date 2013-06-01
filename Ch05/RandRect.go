@@ -94,14 +94,6 @@ var (
     cxClient, cyClient int32
 )
 
-func RGB(r, g, b int32) COLORREF{    
-    r = r & 0xff
-    g = (g & 0xff) <<4
-    b = (b & 0xff) <<8
-    return COLORREF( r | g | b )
-    
-}
-
 func DrawRectangle (hwnd HWND){
      
      if (cxClient == 0 || cyClient == 0){
