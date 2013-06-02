@@ -87,7 +87,7 @@ Chapter 8 The Timer
 - 
 8-1 Beeper1.go  
 
-8-2 Beeper2.go  
+8-2 Beeper2.go  ~ HAVE A TROUBLE 
 
 8-3 DigClock.go 
 
@@ -97,17 +97,17 @@ Chapter 8 The Timer
 
 Chapter 9 Child Window Controls
 - 
-BtnLook.go
+9-1 BtnLook.go
 
-Colors1.go
+9-2 OwnDraw.go
 
-Environ.go
+9-3 Colors1.go
 
-OwnDraw.go
+9-4 PopPad1.go
 
-PopPad1.go
+9-5 Environ.go
 
-Head.go   
+9-6 Head.go   
 
 Chapter 10 Menus and Other Resources
 - 
