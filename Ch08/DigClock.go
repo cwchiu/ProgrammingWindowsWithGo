@@ -247,5 +247,5 @@ func main() {
     table[WM_PAINT] = OnPaint
     table[WM_DESTROY] = OnDestroy
 
-    initWindow("Beeper1", "Beeper1 Timer Demo", syscall.NewCallback(WndProc))
+    initWindow("DigClock", "Digital Clock", syscall.NewCallback(WndProc))
 }
