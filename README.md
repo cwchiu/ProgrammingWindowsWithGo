@@ -1,8 +1,10 @@
 Programming Windows With Go
 ========================
-Reference "[Programming Windows, 5th Edition](http://www.charlespetzold.com/pw5/)"
+## Reference ##
 
+[1] Charles Petzold, "[Programming Windows, 5th Edition](http://www.charlespetzold.com/pw5/), ([Example](http://examples.oreilly.com/9781572319950/cd_contents))"
 
+[2] Microsoft, "[Windows API Index](http://msdn.microsoft.com/library/windows/desktop/hh920508(vs.85\))"
 
 ## Test Enviroment: ##
 1) Windows XP 32bits
@@ -111,6 +113,20 @@ Chapter 9 Child Window Controls
 
 Chapter 10 Menus and Other Resources
 - 
+
+10-1 IconDemo.go
+
+10-3 PoePoem
+
+10-4 MenuDemo
+
+10-6 PopMenu
+
+10-7 PoorMenu
+
+10-8 NoPopups
+
+10-9 PopPad2
 
 Chapter 11 Dialog Boxes
 - 
