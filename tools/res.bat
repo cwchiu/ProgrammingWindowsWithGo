@@ -1,0 +1,1 @@
+c:\mingw32\bin\windres.exe %1 -o %1.o
