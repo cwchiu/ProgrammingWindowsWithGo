@@ -130,15 +130,68 @@ Chapter 10 Menus and Other Resources
 
 Chapter 11 Dialog Boxes
 - 
+11-1 About1
+
+11-2 About2
+
+11-3 About3
+
+11-4 Colors2
+
+11-5 HexCalc
+
+11-6 PopPad3
+
+11-7 Colors3
+
 
 Chapter 12 The Clipboard
 - 
+12-1 ClipText
+
+12-2 ClipView
 
 Chapter 13 Using the Printer
 - 
+13-1 GetPrnDC
+
+13-2 DevCaps2
+
+13-3 FormFeed
+
+13-4 Print
+
+13-5 Print1
+
+13-6 Print2
+
+13-7 Print3
+
+13-8 PoPPrnt
 
 Chapter 14 Bitmaps and Bitblts
 - 
+14-1 Bitblt
+
+14-2 Stretch
+
+14-3 Bricks1
+
+14-4 Bricks2
+
+14-5 Bricks3
+
+14-6 HelloBit
+
+14-7 Sketch
+
+14-8 GrafMenu
+
+14-9 BitMask
+
+14-10 Bounce
+
+14-11 Scramble
 
 Chapter 15 The Device-Independent Bitmap
 - 
