@@ -112,7 +112,7 @@ func main() {
             }
         }
 
-        return 3
+        return MSG_IGNORE
     })
 
     app.On(WM_PAINT, func(hwnd HWND, msg uint32, wParam, lParam uintptr) (result uintptr) {
